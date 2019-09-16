@@ -1,9 +1,9 @@
 ---
-title: Minimal Text
-baseurl: "/Minimal-Text"
-desc: A minimal blog for off-topic blog entries.
-about: I am a web developer, software engineer, and project manager currently living in Collinsville, Illinois. I'm a little weird but pretty friendly.
-image: https://pinto-light.glitch.me/?width=500&height=500&url=https://i.imgur.com/mxUVc2x.jpg&extension=jpg
+title: Aman Kumar Garg
+baseurl: "/amank90theme"
+desc: My blog post
+about: I am a graduate at UBC. I am enrolled in Master in Data Science program of UBC 
+image: https://avatars0.githubusercontent.com/u/13175313?s=400&u=82252faf6ee7e2875418292d993dec9db30d3ac4&v=4
 excerpt_separator: "<!-- more -->"
 markdown: kramdown
 gems:
